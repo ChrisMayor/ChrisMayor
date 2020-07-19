@@ -24,7 +24,7 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Scss](https://img.shields.io/badge/-Scss-%23CC6699?style=flat-square&logo=scss&logoColor=ffffff)
+![SCSS](https://img.shields.io/badge/-SCSS-%23CC6699?style=flat-square&logo=scss&logoColor=ffffff)
 
 
 #### Database
@@ -35,13 +35,14 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Azure Devops](http://img.shields.io/badge/-Azure%20Devops-2088FF?style=flat-square&logo=azuredevops&logoColor=ffffff)
+![JIRA](http://img.shields.io/badge/-JIRA-3769cc?style=flat-square&logo=jira&logoColor=ffffff)
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![VS](http://img.shields.io/badge/-Visual%20Studio-cc37ac?style=flat-square&logo=visual-studio&logoColor=ffffff)
 
 ![Windows](http://img.shields.io/badge/-Windows-1e851e?style=flat-square&logo=windows&logoColor=ffffff)
 
-![SCRUM](http://img.shields.io/badge/-SCRUM-3769cc?style=flat-square&logo=jira&logoColor=ffffff)
+![SCRUM](http://img.shields.io/badge/-SCRUM-3769cc?style=flat-square)
 
 ##### Connect with me: 
 
