@@ -21,14 +21,16 @@
 <br>
 
   <a href="https://www.linkedin.com/in/christoph-meyer-79386828">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Christoph Meyer | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://mailhide.io/e/ElqxD">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Christoph Meyer | Mail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-
+    <a href="https://github.com/ChrisMayor/Impressum">
+    <img align="left" alt="Christoph Meyer | Impressum" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+  
 <br><br><br><br>
 
 **⭐️ From [ChrisMayor](https://github.com/ChrisMayor)**
 
-https://github.com/ChrisMayor/Impressum
