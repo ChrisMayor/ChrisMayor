@@ -49,5 +49,5 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 
 <br><br><br><br>
 
-<a href="https://github.com/ChrisMayor/Impressum"><img src="https://img.icons8.com/android/100/000000/law.png" height="20px" width="20px"/>Impressum</a>
+<a href="https://github.com/ChrisMayor/Impressum">Impressum</a>
 
