@@ -13,11 +13,10 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 ![.NET Core](http://img.shields.io/badge/-.NET%20Core-3DDC84?style=flat-square&logoColor=ffffff)
 ![Dynamics 365](http://img.shields.io/badge/-Dynamics%20365-007396?style=flat-square&logo=dynamics365p&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Power Platform](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
-![TypeScript](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![Power Platform](http://img.shields.io/badge/-Power Platform-0075A8?style=flat-square&logoColor=ffffff)
 
 #### Frontend
-![TypeScript](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23E44D27?style=flat-square&logo=typescript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
