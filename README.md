@@ -1,4 +1,4 @@
-## Hi I'm ChrisMayor :octocat:
+## Hi I'm Chris :wave:
 
 Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular ⋆ ScrumMaster) in :beer: Munich / Germany Area.
 
@@ -44,6 +44,6 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 
 ![SCRUM](http://img.shields.io/badge/-SCRUM-3769cc?style=flat-square)
 
-##### Connect with me: 
+##### :point_right: Connect with me: 
 
 <a href="https://www.linkedin.com/in/christoph-meyer-79386828"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
