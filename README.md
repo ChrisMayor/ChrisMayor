@@ -9,8 +9,8 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 ### My Stack
 
 ![C#](http://img.shields.io/badge/-C%23-007396?style=flat-square&logo=c-sharp&logoColor=ffffff)
-![.NET](http://img.shields.io/badge/-.NET-6DB33F?style=flat-square&logoColor=ffffff)
-![.NET Core](http://img.shields.io/badge/-.NET%20Core-3DDC84?style=flat-square&logoColor=ffffff)
+![.NET](http://img.shields.io/badge/-.NET-6DB33F?style=flat-square&logo=.NET&logoColor=ffffff)
+![.NET Core](http://img.shields.io/badge/-.NET%20Core-3DDC84?style=flat-square&logo=.NET&logoColor=ffffff)
 ![Dynamics 365](http://img.shields.io/badge/-Dynamics%20365-007396?style=flat-square&logo=Dynamics-365&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Power Platform](http://img.shields.io/badge/-Power%20Platform-0075A8?style=flat-square&logo=Dynamics-365&logoColor=ffffff)
