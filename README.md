@@ -27,6 +27,7 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 
 #### Database
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![SSIS](http://img.shields.io/badge/-SSIS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -38,18 +39,6 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<br>
-
-  <a href="https://www.linkedin.com/in/christoph-meyer-79386828">
-    <img align="left" alt="Christoph Meyer | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://mailhide.io/e/ElqxD">
-    <img align="left" alt="Christoph Meyer | Mail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-    <a href="https://github.com/ChrisMayor/Impressum">
-    <img align="left" alt="Christoph Meyer | Impressum" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-  
 <br><br><br><br>
 
 **⭐️ From [ChrisMayor](https://github.com/ChrisMayor)**
