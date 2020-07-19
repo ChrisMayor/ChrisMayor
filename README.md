@@ -44,6 +44,6 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 ![SCRUM](http://img.shields.io/badge/-SCRUM-3769cc?style=flat-square&logo=jira&logoColor=ffffff)
 
 <br><br><br><br>
-<a href="https://www.linkedin.com/in/christoph-meyer-79386828"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/>Linkedin</a>
-<a href="https://github.com/ChrisMayor/Impressum"><img src="<img src="https://img.icons8.com/android/100/000000/law.png" height="20px" width="20px"/> Impressum</a>
+<a href="https://www.linkedin.com/in/christoph-meyer-79386828"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/>LinkedIn</a>
+<a href="https://github.com/ChrisMayor/Impressum"><img src="https://img.icons8.com/android/100/000000/law.png" height="20px" width="20px"/>Impressum</a>
 
