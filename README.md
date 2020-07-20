@@ -2,10 +2,6 @@
 
 Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular ⋆ ScrumMaster) in :beer: Munich / Germany Area.
 
-<br>
-
-![ChrisMayor's github stats](https://github-readme-stats.vercel.app/api?username=ChrisMayor&show_icons=true&hide_border=true)
-
 ### My Stack
 
 ![C#](http://img.shields.io/badge/-C%23-007396?style=flat-square&logo=c-sharp&logoColor=ffffff)
@@ -47,3 +43,7 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 ##### Connect with me: 
 
 <a href="https://www.linkedin.com/in/christoph-meyer-79386828"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
+
+<br>
+
+![ChrisMayor's github stats](https://github-readme-stats.vercel.app/api?username=ChrisMayor&show_icons=true&hide_border=true)
