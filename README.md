@@ -43,7 +43,9 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 
 ##### Connect with me: 
 
-<a href="https://www.linkedin.com/in/christoph-meyer-79386828"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
+<a href="https://www.linkedin.com/in/christoph-meyer-79386828/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/chris.mayor.meyers/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-chris.mayor.meyers__-blue?style=flat-square&logo=instagram"></a>
+
 
 <br>
 
