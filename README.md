@@ -25,6 +25,7 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 
 #### Database
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Azure SQL](http://img.shields.io/badge/-Azure%20SQL-2088FF?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![SSIS](http://img.shields.io/badge/-SQL%20Server%20Integration%20Services-851e3f?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### Others
