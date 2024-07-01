@@ -22,6 +22,7 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![SCSS](https://img.shields.io/badge/-SCSS-%23CC6699?style=flat-square&logo=scss&logoColor=ffffff)
+![Nx](https://img.shields.io/badge/-Nx-%231572B6?style=flat-square&logo=nx)
 
 
 #### Database
