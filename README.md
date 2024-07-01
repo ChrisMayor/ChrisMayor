@@ -43,6 +43,7 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 ![VS](http://img.shields.io/badge/-Visual%20Studio-cc37ac?style=flat-square&logo=visual-studio&logoColor=ffffff)
 
 ![Windows](http://img.shields.io/badge/-Windows-1e851e?style=flat-square&logo=windows&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-26C9FF?style=flat-square&logo=linux&logoColor=ffffff)
 
 ![SCRUM](http://img.shields.io/badge/-SCRUM-3769cc?style=flat-square)
 
