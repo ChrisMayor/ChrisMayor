@@ -37,6 +37,7 @@ Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular �
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326ce8?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![Terraform](http://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=ffffff)
 ![Camunda](http://img.shields.io/badge/-Camunda-f24805?style=flat-square&logo=camunda&logoColor=ffffff)
+![Azure AI Services](http://img.shields.io/badge/-Azure%20AI%20Services-2088FF?style=flat-square&logo=Microsoft-Azure&logoColor=ffffff)
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![VS](http://img.shields.io/badge/-Visual%20Studio-cc37ac?style=flat-square&logo=visual-studio&logoColor=ffffff)
