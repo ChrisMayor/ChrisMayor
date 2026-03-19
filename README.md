@@ -1,6 +1,6 @@
 ## Hi I'm Chris :wave:
 
-Senior Full-Stack-Developer (.NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular ⋆ ScrumMaster) in :beer: Munich / Germany Area.
+Senior Software Architect and Technical Lead (Power Platform ⋆ .NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular ⋆ React ⋆ ScrumMaster) in :beer: Munich / Germany Area.
 
 ### My Stack
 
