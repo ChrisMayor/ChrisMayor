@@ -1,6 +1,6 @@
 ## Hi I'm Chris :wave:
 
-Senior Software Architect and Technical Lead (Power Platform ⋆ .NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Angular ⋆ React ⋆ ScrumMaster) in :beer: Munich / Germany Area.
+Senior Solution Architect and Technical Lead (Power Platform ⋆ .NET ⋆ Dynamics 365 / CRM ⋆ Azure ⋆ Enterprise Integration ⋆ Angular ⋆ React ⋆ ScrumMaster) in :beer: Munich / Germany Area.
 
 ### My Stack
 
