@@ -53,9 +53,3 @@ Senior Solution Architect and Technical Lead (Power Platform ⋆ .NET ⋆ Dynami
 ##### Connect with me: 
 
 <a href="https://www.linkedin.com/in/christoph-meyer-79386828/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-
-
-
-<br>
-
-![ChrisMayor's github stats](https://github-readme-stats.vercel.app/api?username=ChrisMayor&show_icons=true&hide_border=true)
